@@ -1,1 +1,3 @@
-Nous avons eu une erreur pour les chemins de l'image, donc nous n'avons pas pu faire un chemin universel.
+Nous avons eu une erreur pour lors de la création de notre fichier de ressource, donc nous n'avons pas pu faire un chemin universel.
+
+Nous n'avons pas réussi à résoudre ce problème.
