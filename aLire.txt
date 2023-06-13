@@ -1,2 +1,2 @@
 Nous avons eu une erreur pour lors de la création de notre fichier de ressource, donc nous n'avons pas pu faire un chemin universel.
-Nous avons résolu ce problème à la v6: /cartesDisney/nom-image
+Nous avons résolu ce problème à la v6: :/cartesDisney/nom-image
